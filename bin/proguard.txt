@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:10
+-keep class org.ruboto.RubotoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:11
+-keep class org.ruboto.RubotoDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class org.ruboto.RubotoService { <init>(...); }
+
+# view AndroidManifest.xml #generated:4
+-keep class org.ruboto.examples.play_audio.PlayAudioActivity { <init>(...); }
+
+# onClick res/layout/get_ruboto_core.xml #generated:9
+-keepclassmembers class * { *** getRubotoCore(...); }
+
