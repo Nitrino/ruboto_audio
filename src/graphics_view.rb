@@ -1,0 +1,2 @@
+class GraphicsView
+end
